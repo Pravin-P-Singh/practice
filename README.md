@@ -1,2 +1,2 @@
 # practice
-This repository is just to practice github
+This repository is just to practice github lol
